@@ -1,5 +1,5 @@
-±à³Ì¹ı³Ì£º
-1£¬´ò¿ª XXX\Anaconda3\Scripts\designer.exe£¬Éè¼ÆUI ½çÃæ£¬±£´æÎª .ui µÄÎÄ¼ş£»
-2£¬ÔÚ .ui µÄÎÄ¼ş¼ĞÀï£¬ SHIFT + ÓÒ¼ü ´ò¿ªpowershell£¬ÊäÈë XXX\Anaconda3\Scripts\pyuic5.exe  .\AAA.ui -o AAA.py,
-     ½«.ui ×ª»»Îª.py ÎÄ¼ş£»
-3£¬´´½¨ĞÂµÄ.py class ¼Ì³ĞAAA.py ÖĞµÄclass 
+ç¼–ç¨‹è¿‡ç¨‹ï¼š
+1ï¼Œæ‰“å¼€ XXX\Anaconda3\Scripts\designer.exeï¼Œè®¾è®¡UI ç•Œé¢ï¼Œä¿å­˜ä¸º check_gif_main.ui çš„æ–‡ä»¶ï¼›
+2ï¼Œåœ¨ .ui çš„æ–‡ä»¶å¤¹é‡Œï¼Œ SHIFT + å³é”® æ‰“å¼€powershellï¼Œè¾“å…¥ XXX\Anaconda3\Scripts\pyuic5.exe  .\check_gif_main.ui -o check_gif_main.py,
+     å°†.ui è½¬æ¢ä¸º.py æ–‡ä»¶ï¼›
+3ï¼Œåˆ›å»ºæ–°çš„.py class ç»§æ‰¿check_gif_main.py ä¸­çš„class 
